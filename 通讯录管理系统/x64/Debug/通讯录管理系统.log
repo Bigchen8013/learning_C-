@@ -1,0 +1,4 @@
+﻿  通讯录管理系统.cpp
+G:\C++_projects\通讯录管理系统\通讯录管理系统.cpp(64,10): warning C4804: “<=”: 在操作中使用类型“bool”不安全
+G:\C++_projects\通讯录管理系统\通讯录管理系统.cpp(245,11): warning C4804: “<=”: 在操作中使用类型“bool”不安全
+  通讯录管理系统.vcxproj -> G:\C++_projects\通讯录管理系统\x64\Debug\通讯录管理系统.exe
